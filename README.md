@@ -22,4 +22,4 @@ I file issues with minimal reproductions and fix what I can reach. Recent: an `F
 
 I also run a history documentary channel and two Turkish-language social accounts, which is where the writing goes when it is not going into a README.
 
-[x.com/dexterderler](https://twitte
+[x.com/dexterderler]
